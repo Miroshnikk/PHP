@@ -3,4 +3,6 @@
 
 $num = 50;
 
-echo $num;
+echo $num,"<br>";
+
+include "author.php";
