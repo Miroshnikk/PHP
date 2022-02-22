@@ -1,4 +1,5 @@
 <?php
+
 echo'<table border="2">';
 echo "<table style = 'text-align: center'>";
 
@@ -11,4 +12,5 @@ for ($j=1;$j<=10;$j++)
   }
   echo "</tr>";
   }
+  
 ?>
