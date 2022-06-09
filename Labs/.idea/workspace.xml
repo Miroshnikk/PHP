@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8322bea6-80dd-4634-8a94-ed7d3ce62792" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lab7part1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7part1/registration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab7part1/users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/Calcullator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/Country.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/Dispatch.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/Multiply.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab8/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab9/tic-tac-toe.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/part2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ACcDcDejNLsecBpNxvZKtL3cIl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/OpenServer/domains/PHPwork/Labs",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/lab7(2)/index.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8322bea6-80dd-4634-8a94-ed7d3ce62792" name="Changes" comment="" />
+      <created>1654516888889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654516888889</updated>
+      <workItem from="1654516890221" duration="10000" />
+      <workItem from="1654517248633" duration="25014000" />
+      <workItem from="1654676417366" duration="2116000" />
+      <workItem from="1654682472137" duration="15994000" />
+      <workItem from="1654776063527" duration="3237000" />
+      <workItem from="1654779337278" duration="21094000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
